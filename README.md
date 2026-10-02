@@ -111,7 +111,7 @@
 
 ### Области применения методологии
 <p align="center">
-  <img src="[https://github.com/electronicseals-png/MFONS/Comic_book.png">
+  <img src="https://github.com/electronicseals-png/MFONS/blob/main/Comic_book.png">
 </p>
 
 ### Эмпирические наблюдения и границы применимости (P.S.) 📝
